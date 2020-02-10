@@ -1,16 +1,3 @@
-﻿1.My Kardio: A Telemedicine System Based on Machine-to-Machine (M2M) Technology for
-Cardiovascular Patients in Rural Areas with Auto-Diagnosis Feature Using
-k-Nearest Neighbor Algorithm 
+Machine Learning Techniques for Stress Prediction in Working Employees 
 
-link:https://scihub.bban.top/https://ieeexplore.ieee.org/document/8352452
-
-2.  Facial expression recognition system using machine learning
-
-https://ieeexplore.ieee.org/document/8368887
-
-3. Performance analysis of basic image processing algorithms on GPU
-
-https://ieeexplore.ieee.org/document/8068687
-
-https://sci-hub.tw/10.1109/ICISC.2017.8068687
-
+link:https://sci-hub.se/10.1109/iccic.2018.8782395
